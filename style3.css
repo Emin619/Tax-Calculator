@@ -1,0 +1,71 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px; /* Adjusted margin */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    border-radius: 5px;
+    background-color: rgb(54, 52, 52);
+    color: white;
+    box-shadow: rgba(0,0,0,0.7) 0px 19px 38px, rgba(0,0,0,0.22) 0px 5px 5px;
+    margin:auto;
+    margin-top: 155px;
+    border: 1px solid rgba(125,115,255,0.228);
+    padding: 20px; /* Adjusted padding */
+}
+
+.container h1 {
+    border-bottom: 1px solid grey;
+    margin-bottom: 20px; /* Adjusted margin */
+}
+
+.container label {
+    margin-right: 10px;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px; /* Adjusted margin */
+}
+
+.input-group label {
+    width: 200px;
+}
+
+button {
+    padding: 15px 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-right: 15px;
+    width: 150px;
+    background-color: rgb(194, 193, 193);
+    color: black;
+    font-weight: 700;
+}
+
+button:hover {
+    background-color: #45A049;
+}
+
+#taxResult {
+    margin-top: 50px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+    
+}
