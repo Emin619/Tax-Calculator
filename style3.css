@@ -72,10 +72,10 @@ h1 {
     display: none;
   }
   #errorMessage {
-    color: red; /* Text color */
-    background-color: white; /* Background color */
-    padding: 1px 2px; /* Padding around text */
-    border-radius: 5px; /* Rounded corners */
+    color: red; 
+    background-color: white; 
+    padding: 1px 2px; 
+    border-radius: 5px; 
     display: none;
    
 }
@@ -139,7 +139,7 @@ button:hover {
   }
   
   .input-with-icon input {
-    padding-right: 30px; /* Adjust this value to control the spacing between the input and the icon */
+    padding-right: 30px; 
   }
   
   .alert-circle-icon {
