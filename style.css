@@ -1,14 +1,6 @@
 body {
     font-family: 'Oswald', sans-serif;
-    margin: 0;
-    padding: 20px;
-}
-
-h1 {
-    padding: 15px;
-    margin-top: auto;
-    text-align: center;
-    margin-top: 20px; 
+    
 }
 
 .container {
@@ -26,6 +18,12 @@ h1 {
     padding: 20px; 
 }
 
+h1 {
+    padding: 15px;
+    margin-top: auto;
+    text-align: center;
+    margin-top: 20px; 
+}
 .container h1 {
     border-bottom: 1px solid grey;
     margin-bottom: 20px; 
@@ -153,3 +151,4 @@ button:hover {
     top: 50%;
     transform: translateY(-50%);
   }
+  
