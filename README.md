@@ -13,7 +13,7 @@ This is a simple tax calculator application built using HTML, CSS, and JavaScrip
 
 To run the application locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/Emin619/Tax-Calculator.git
 2. Navigate to the project directory:
 3. Open the `index.html` file in your web browser.
 
